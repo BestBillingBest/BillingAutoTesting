@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<configuration>  
+  <Platform1c>
+    <!--Vars -->
+    <add key="path" value="C:\Program Files\1cv8\8.3.17.2231"/>
+  </Platform1c>
+ <buildFolder>
+        <!--Vars -->
+        <add key="path" value="Allure"/>
+    </buildFolder>
+</configuration>
